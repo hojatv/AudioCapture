@@ -126,7 +126,7 @@ public class MainActivity extends Activity {
                 mStartPlaying = !mStartPlaying;
             }
         };
-
+        //test git
         public PlayButton(Context ctx) {
             super(ctx);
             setText("Start playing");
